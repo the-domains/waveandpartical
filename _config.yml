@@ -1,0 +1,28 @@
+name: waveandPartical
+favicon: null
+layout_spectrum: 0.3631747446488589
+typography_spectrum: 0.26543028652668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7421590178273618
+  lightness: 0.16341424803249538
+  saturation: 0.42108092410489917
+  rhythmicContrast: 0.8700700008776039
+purpose: []
